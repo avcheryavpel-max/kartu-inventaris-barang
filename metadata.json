@@ -1,0 +1,6 @@
+{
+  "name": "SMART KIB – INVENTORY DATA PROCESSOR",
+  "description": "Sistem Cerdas Pengolahan Data Inventaris dan Kartu Inventaris Barang (KIB) berbasis web untuk konversi PDF ke Excel standar administrasi dan audit aset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
